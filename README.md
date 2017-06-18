@@ -1,5 +1,4 @@
 # Code Mania 101 Bangkok, Thailand
----
 
 Some note only session attended.
 
@@ -27,7 +26,6 @@ https://medium.freecodecamp.com/million-requests-per-second-with-python-95c137af
 
 [The coroutine concurrency library](https://github.com/dabeaz/curio)
 
----
 
 ## Code security
 
@@ -64,5 +62,3 @@ Whitelist, data type example, int, date, range
 #### Output handling
 
 #### Parameterize queries
-
----
